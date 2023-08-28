@@ -5,5 +5,5 @@ fourth line
 fifth line
 sixth line
 eighth line
-how are you(step 7)
-im okay thx(step 7)
+how old are you(step 8)
+im twenty y.old(step 8)
