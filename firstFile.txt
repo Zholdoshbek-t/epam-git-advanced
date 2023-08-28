@@ -1,6 +1,6 @@
 ahahaha this is remote change in git_1
-second line
-third line
+second line step 18
+third line  step 18
 fourth line
 fifth line
 sixth line habe ich
