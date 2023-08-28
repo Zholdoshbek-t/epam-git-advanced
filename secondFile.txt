@@ -1,5 +1,7 @@
 first line second file changed git_1
 second line second file changed git_1
+first line second file changed git_2
+second line second file changed git_2 
 third line second file
 fourth line second file
 fifth line second file
